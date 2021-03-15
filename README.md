@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaryangold
+- 👋 Hi, I’m Aryan Raj
 - 👀 I’m interested in Data Science,ML,DL.
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on DS/ML/DL projects.
